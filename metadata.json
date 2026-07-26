@@ -1,0 +1,6 @@
+{
+  "name": "Absensi Guru Ponpes Yasfi Shigor",
+  "description": "Sistem Absensi Guru Pondok Pesantren Tahfidz Yasfi Bekasi dengan Rekapitulasi Harian, Waktu Otomatis Realtime, Pemindai QR Code, Notifikasi Keterlambatan WhatsApp, dan Ekspor Laporan Excel/PDF.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
